@@ -1,0 +1,9 @@
+GET http://localhost:8080/post/like
+
+Content-Type: application/json
+Authorization: `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDUyNGZlMGVmZTNkNzQ2NTlhN2I4YmIiLCJpYXQiOjE2MTcwMTc1Mjl9.jmeHyIW5es_XVK2uC3OhNHP9F4m9trlmzoecqcK-31s`
+{
+    "userId":"60524fe0efe3d74659a7b8bb",
+    "postId":"6061c162c594033f3b8d4d6f"
+    
+}
